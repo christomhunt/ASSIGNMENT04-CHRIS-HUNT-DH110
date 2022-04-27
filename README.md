@@ -33,7 +33,7 @@
 
 #### Dan's Journey Map
 
-![Dan Journey](Dan%20Journey%20Map.png)
+![Dan Journey Map](Dan%20Journey%20Map.png)
 
 ### Emily's Scenario & Journey Map
 
